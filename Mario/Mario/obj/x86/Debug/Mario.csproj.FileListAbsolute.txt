@@ -1,0 +1,183 @@
+c:\users\spellabbet\documents\visual studio 2013\Projects\Mario\Mario\obj\x86\Debug\Mario.csprojResolveAssemblyReference.cache
+c:\users\spellabbet\documents\visual studio 2013\Projects\Mario\Mario\bin\Windows\Debug\Mario.exe
+c:\users\spellabbet\documents\visual studio 2013\Projects\Mario\Mario\bin\Windows\Debug\Mario.pdb
+c:\users\spellabbet\documents\visual studio 2013\Projects\Mario\Mario\bin\Windows\Debug\MonoGame.Framework.dll
+c:\users\spellabbet\documents\visual studio 2013\Projects\Mario\Mario\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+c:\users\spellabbet\documents\visual studio 2013\Projects\Mario\Mario\bin\Windows\Debug\SharpDX.dll
+c:\users\spellabbet\documents\visual studio 2013\Projects\Mario\Mario\bin\Windows\Debug\SharpDX.XAudio2.dll
+c:\users\spellabbet\documents\visual studio 2013\Projects\Mario\Mario\bin\Windows\Debug\SharpDX.Direct3D11.dll
+c:\users\spellabbet\documents\visual studio 2013\Projects\Mario\Mario\bin\Windows\Debug\SharpDX.DXGI.dll
+c:\users\spellabbet\documents\visual studio 2013\Projects\Mario\Mario\bin\Windows\Debug\SharpDX.Direct2D1.dll
+c:\users\spellabbet\documents\visual studio 2013\Projects\Mario\Mario\bin\Windows\Debug\SharpDX.XInput.dll
+c:\users\spellabbet\documents\visual studio 2013\Projects\Mario\Mario\bin\Windows\Debug\SharpDX.RawInput.dll
+c:\users\spellabbet\documents\visual studio 2013\Projects\Mario\Mario\bin\Windows\Debug\SharpDX.Direct3D9.dll
+c:\users\spellabbet\documents\visual studio 2013\Projects\Mario\Mario\bin\Windows\Debug\MonoGame.Framework.xml
+c:\users\spellabbet\documents\visual studio 2013\Projects\Mario\Mario\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+c:\users\spellabbet\documents\visual studio 2013\Projects\Mario\Mario\bin\Windows\Debug\SharpDX.xml
+c:\users\spellabbet\documents\visual studio 2013\Projects\Mario\Mario\bin\Windows\Debug\SharpDX.XAudio2.xml
+c:\users\spellabbet\documents\visual studio 2013\Projects\Mario\Mario\bin\Windows\Debug\SharpDX.Direct3D11.xml
+c:\users\spellabbet\documents\visual studio 2013\Projects\Mario\Mario\bin\Windows\Debug\SharpDX.DXGI.xml
+c:\users\spellabbet\documents\visual studio 2013\Projects\Mario\Mario\bin\Windows\Debug\SharpDX.Direct2D1.xml
+c:\users\spellabbet\documents\visual studio 2013\Projects\Mario\Mario\bin\Windows\Debug\SharpDX.XInput.xml
+c:\users\spellabbet\documents\visual studio 2013\Projects\Mario\Mario\bin\Windows\Debug\SharpDX.RawInput.xml
+c:\users\spellabbet\documents\visual studio 2013\Projects\Mario\Mario\bin\Windows\Debug\SharpDX.Direct3D9.xml
+c:\users\spellabbet\documents\visual studio 2013\Projects\Mario\Mario\obj\x86\Debug\Mario.exe
+c:\users\spellabbet\documents\visual studio 2013\Projects\Mario\Mario\obj\x86\Debug\Mario.pdb
+c:\users\spellabbet\documents\visual studio 2013\Projects\Mario\Mario\bin\Windows\Debug\Content\Sheet_Platt.xnb
+c:\users\spellabbet\documents\visual studio 2013\Projects\Mario\Mario\bin\Windows\Debug\Content\wall.xnb
+c:\users\spellabbet\documents\visual studio 2013\Projects\Mario\Mario\bin\Windows\Debug\Content\mariosheet1.xnb
+c:\users\spellabbet\documents\visual studio 2013\Projects\Mario\Mario\bin\Windows\Debug\Content\mariosheet2.xnb
+C:\Users\toman\Documents\Visual Studio 2013\Projects\Mario\Mario\obj\x86\Debug\Mario.exe
+C:\Users\toman\Documents\Visual Studio 2013\Projects\Mario\Mario\obj\x86\Debug\Mario.pdb
+C:\Users\toman\Documents\Visual Studio 2013\Projects\Mario\Mario\bin\Windows\Debug\Content\background.xnb
+C:\Users\toman\Documents\Visual Studio 2013\Projects\Mario\Mario\bin\Windows\Debug\Content\mariosheet1.xnb
+C:\Users\toman\Documents\Visual Studio 2013\Projects\Mario\Mario\bin\Windows\Debug\Content\mariosheet2.xnb
+C:\Users\toman\Documents\Visual Studio 2013\Projects\Mario\Mario\bin\Windows\Debug\Content\Sheet_Platt.xnb
+C:\Users\toman\Documents\Visual Studio 2013\Projects\Mario\Mario\bin\Windows\Debug\Content\wall.xnb
+C:\Users\toman\Documents\Visual Studio 2013\Projects\Mario\Mario\bin\Windows\Debug\Mario.exe
+C:\Users\toman\Documents\Visual Studio 2013\Projects\Mario\Mario\bin\Windows\Debug\Mario.pdb
+C:\Users\toman\Documents\Visual Studio 2013\Projects\Mario\Mario\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\toman\Documents\Visual Studio 2013\Projects\Mario\Mario\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\toman\Documents\Visual Studio 2013\Projects\Mario\Mario\bin\Windows\Debug\SharpDX.dll
+C:\Users\toman\Documents\Visual Studio 2013\Projects\Mario\Mario\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\toman\Documents\Visual Studio 2013\Projects\Mario\Mario\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\toman\Documents\Visual Studio 2013\Projects\Mario\Mario\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\toman\Documents\Visual Studio 2013\Projects\Mario\Mario\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\toman\Documents\Visual Studio 2013\Projects\Mario\Mario\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\toman\Documents\Visual Studio 2013\Projects\Mario\Mario\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\toman\Documents\Visual Studio 2013\Projects\Mario\Mario\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\toman\Documents\Visual Studio 2013\Projects\Mario\Mario\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\toman\Documents\Visual Studio 2013\Projects\Mario\Mario\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\toman\Documents\Visual Studio 2013\Projects\Mario\Mario\bin\Windows\Debug\SharpDX.xml
+C:\Users\toman\Documents\Visual Studio 2013\Projects\Mario\Mario\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\toman\Documents\Visual Studio 2013\Projects\Mario\Mario\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\toman\Documents\Visual Studio 2013\Projects\Mario\Mario\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\toman\Documents\Visual Studio 2013\Projects\Mario\Mario\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\toman\Documents\Visual Studio 2013\Projects\Mario\Mario\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\toman\Documents\Visual Studio 2013\Projects\Mario\Mario\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\toman\Documents\Visual Studio 2013\Projects\Mario\Mario\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\toman\Documents\Visual Studio 2013\Projects\Mario\Mario\obj\x86\Debug\Mario.csprojResolveAssemblyReference.cache
+C:\Users\Spellabbet\Documents\Visual Studio 2013\Projects\Mario\Mario\Mario\obj\x86\Debug\Mario.exe
+C:\Users\Spellabbet\Documents\Visual Studio 2013\Projects\Mario\Mario\Mario\obj\x86\Debug\Mario.csprojResolveAssemblyReference.cache
+C:\Users\Spellabbet\Documents\Visual Studio 2013\Projects\Mario\Mario\Mario\bin\Windows\Debug\Content\background.xnb
+C:\Users\Spellabbet\Documents\Visual Studio 2013\Projects\Mario\Mario\Mario\bin\Windows\Debug\Content\mariosheet1.xnb
+C:\Users\Spellabbet\Documents\Visual Studio 2013\Projects\Mario\Mario\Mario\bin\Windows\Debug\Content\mariosheet2.xnb
+C:\Users\Spellabbet\Documents\Visual Studio 2013\Projects\Mario\Mario\Mario\bin\Windows\Debug\Content\Sheet_Platt.xnb
+C:\Users\Spellabbet\Documents\Visual Studio 2013\Projects\Mario\Mario\Mario\bin\Windows\Debug\Content\wall.xnb
+C:\Users\Spellabbet\Documents\Visual Studio 2013\Projects\Mario\Mario\Mario\bin\Windows\Debug\Mario.exe
+C:\Users\Spellabbet\Documents\Visual Studio 2013\Projects\Mario\Mario\Mario\bin\Windows\Debug\Mario.pdb
+C:\Users\Spellabbet\Documents\Visual Studio 2013\Projects\Mario\Mario\Mario\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Spellabbet\Documents\Visual Studio 2013\Projects\Mario\Mario\Mario\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Spellabbet\Documents\Visual Studio 2013\Projects\Mario\Mario\Mario\bin\Windows\Debug\SharpDX.dll
+C:\Users\Spellabbet\Documents\Visual Studio 2013\Projects\Mario\Mario\Mario\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Spellabbet\Documents\Visual Studio 2013\Projects\Mario\Mario\Mario\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Spellabbet\Documents\Visual Studio 2013\Projects\Mario\Mario\Mario\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Spellabbet\Documents\Visual Studio 2013\Projects\Mario\Mario\Mario\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Spellabbet\Documents\Visual Studio 2013\Projects\Mario\Mario\Mario\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Spellabbet\Documents\Visual Studio 2013\Projects\Mario\Mario\Mario\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Spellabbet\Documents\Visual Studio 2013\Projects\Mario\Mario\Mario\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Spellabbet\Documents\Visual Studio 2013\Projects\Mario\Mario\Mario\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Spellabbet\Documents\Visual Studio 2013\Projects\Mario\Mario\Mario\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Spellabbet\Documents\Visual Studio 2013\Projects\Mario\Mario\Mario\bin\Windows\Debug\SharpDX.xml
+C:\Users\Spellabbet\Documents\Visual Studio 2013\Projects\Mario\Mario\Mario\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Spellabbet\Documents\Visual Studio 2013\Projects\Mario\Mario\Mario\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Spellabbet\Documents\Visual Studio 2013\Projects\Mario\Mario\Mario\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Spellabbet\Documents\Visual Studio 2013\Projects\Mario\Mario\Mario\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Spellabbet\Documents\Visual Studio 2013\Projects\Mario\Mario\Mario\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Spellabbet\Documents\Visual Studio 2013\Projects\Mario\Mario\Mario\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Spellabbet\Documents\Visual Studio 2013\Projects\Mario\Mario\Mario\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Spellabbet\Documents\Visual Studio 2013\Projects\Mario\Mario\Mario\obj\x86\Debug\Mario.pdb
+C:\Users\Spellabbet\Documents\Visual Studio 2013\Projects\Mario\Mario\Mario\bin\Windows\Debug\Content\cloud.xnb
+C:\Users\toman\Documents\Visual Studio 2013\Projects\Marioidag\Mario\Mario\obj\x86\Debug\Mario.exe
+C:\Users\toman\Documents\Visual Studio 2013\Projects\Marioidag\Mario\Mario\obj\x86\Debug\Mario.pdb
+C:\Users\toman\Documents\Visual Studio 2013\Projects\Marioidag\Mario\Mario\bin\Windows\Debug\Content\background.xnb
+C:\Users\toman\Documents\Visual Studio 2013\Projects\Marioidag\Mario\Mario\bin\Windows\Debug\Content\cloud.xnb
+C:\Users\toman\Documents\Visual Studio 2013\Projects\Marioidag\Mario\Mario\bin\Windows\Debug\Content\mariosheet1.xnb
+C:\Users\toman\Documents\Visual Studio 2013\Projects\Marioidag\Mario\Mario\bin\Windows\Debug\Content\mariosheet2.xnb
+C:\Users\toman\Documents\Visual Studio 2013\Projects\Marioidag\Mario\Mario\bin\Windows\Debug\Content\Sheet_Platt.xnb
+C:\Users\toman\Documents\Visual Studio 2013\Projects\Marioidag\Mario\Mario\bin\Windows\Debug\Content\wall.xnb
+C:\Users\toman\Documents\Visual Studio 2013\Projects\Marioidag\Mario\Mario\bin\Windows\Debug\Mario.exe
+C:\Users\toman\Documents\Visual Studio 2013\Projects\Marioidag\Mario\Mario\bin\Windows\Debug\Mario.pdb
+C:\Users\toman\Documents\Visual Studio 2013\Projects\Marioidag\Mario\Mario\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\toman\Documents\Visual Studio 2013\Projects\Marioidag\Mario\Mario\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\toman\Documents\Visual Studio 2013\Projects\Marioidag\Mario\Mario\bin\Windows\Debug\SharpDX.dll
+C:\Users\toman\Documents\Visual Studio 2013\Projects\Marioidag\Mario\Mario\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\toman\Documents\Visual Studio 2013\Projects\Marioidag\Mario\Mario\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\toman\Documents\Visual Studio 2013\Projects\Marioidag\Mario\Mario\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\toman\Documents\Visual Studio 2013\Projects\Marioidag\Mario\Mario\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\toman\Documents\Visual Studio 2013\Projects\Marioidag\Mario\Mario\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\toman\Documents\Visual Studio 2013\Projects\Marioidag\Mario\Mario\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\toman\Documents\Visual Studio 2013\Projects\Marioidag\Mario\Mario\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\toman\Documents\Visual Studio 2013\Projects\Marioidag\Mario\Mario\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\toman\Documents\Visual Studio 2013\Projects\Marioidag\Mario\Mario\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\toman\Documents\Visual Studio 2013\Projects\Marioidag\Mario\Mario\bin\Windows\Debug\SharpDX.xml
+C:\Users\toman\Documents\Visual Studio 2013\Projects\Marioidag\Mario\Mario\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\toman\Documents\Visual Studio 2013\Projects\Marioidag\Mario\Mario\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\toman\Documents\Visual Studio 2013\Projects\Marioidag\Mario\Mario\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\toman\Documents\Visual Studio 2013\Projects\Marioidag\Mario\Mario\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\toman\Documents\Visual Studio 2013\Projects\Marioidag\Mario\Mario\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\toman\Documents\Visual Studio 2013\Projects\Marioidag\Mario\Mario\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\toman\Documents\Visual Studio 2013\Projects\Marioidag\Mario\Mario\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\toman\Documents\Visual Studio 2013\Projects\Marioidag\Mario\Mario\obj\x86\Debug\Mario.csprojResolveAssemblyReference.cache
+C:\Users\filip_000\Downloads\Mario\Mario\obj\x86\Debug\Mario.exe
+C:\Users\filip_000\Downloads\Mario\Mario\obj\x86\Debug\Mario.pdb
+C:\Users\filip_000\Downloads\Mario\Mario\bin\Windows\Debug\Content\background.xnb
+C:\Users\filip_000\Downloads\Mario\Mario\bin\Windows\Debug\Content\cloud.xnb
+C:\Users\filip_000\Downloads\Mario\Mario\bin\Windows\Debug\Content\mariosheet1.xnb
+C:\Users\filip_000\Downloads\Mario\Mario\bin\Windows\Debug\Content\mariosheet2.xnb
+C:\Users\filip_000\Downloads\Mario\Mario\bin\Windows\Debug\Content\Sheet_Platt.xnb
+C:\Users\filip_000\Downloads\Mario\Mario\bin\Windows\Debug\Content\wall.xnb
+C:\Users\filip_000\Downloads\Mario\Mario\bin\Windows\Debug\Mario.exe
+C:\Users\filip_000\Downloads\Mario\Mario\bin\Windows\Debug\Mario.pdb
+C:\Users\filip_000\Downloads\Mario\Mario\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\filip_000\Downloads\Mario\Mario\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\filip_000\Downloads\Mario\Mario\bin\Windows\Debug\SharpDX.dll
+C:\Users\filip_000\Downloads\Mario\Mario\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\filip_000\Downloads\Mario\Mario\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\filip_000\Downloads\Mario\Mario\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\filip_000\Downloads\Mario\Mario\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\filip_000\Downloads\Mario\Mario\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\filip_000\Downloads\Mario\Mario\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\filip_000\Downloads\Mario\Mario\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\filip_000\Downloads\Mario\Mario\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\filip_000\Downloads\Mario\Mario\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\filip_000\Downloads\Mario\Mario\bin\Windows\Debug\SharpDX.xml
+C:\Users\filip_000\Downloads\Mario\Mario\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\filip_000\Downloads\Mario\Mario\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\filip_000\Downloads\Mario\Mario\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\filip_000\Downloads\Mario\Mario\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\filip_000\Downloads\Mario\Mario\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\filip_000\Downloads\Mario\Mario\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\filip_000\Downloads\Mario\Mario\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\filip_000\Downloads\Mario\Mario\obj\x86\Debug\Mario.csprojResolveAssemblyReference.cache
+C:\Users\filip_000\Documents\Visual Studio 2013\Projects\Mario\Mario\obj\x86\Debug\Mario.exe
+C:\Users\filip_000\Documents\Visual Studio 2013\Projects\Mario\Mario\obj\x86\Debug\Mario.pdb
+C:\Users\filip_000\Documents\Visual Studio 2013\Projects\Mario\Mario\bin\Windows\Debug\Content\background.xnb
+C:\Users\filip_000\Documents\Visual Studio 2013\Projects\Mario\Mario\bin\Windows\Debug\Content\cloud.xnb
+C:\Users\filip_000\Documents\Visual Studio 2013\Projects\Mario\Mario\bin\Windows\Debug\Content\mariosheet1.xnb
+C:\Users\filip_000\Documents\Visual Studio 2013\Projects\Mario\Mario\bin\Windows\Debug\Content\mariosheet2.xnb
+C:\Users\filip_000\Documents\Visual Studio 2013\Projects\Mario\Mario\bin\Windows\Debug\Content\Sheet_Platt.xnb
+C:\Users\filip_000\Documents\Visual Studio 2013\Projects\Mario\Mario\bin\Windows\Debug\Content\wall.xnb
+C:\Users\filip_000\Documents\Visual Studio 2013\Projects\Mario\Mario\bin\Windows\Debug\Mario.exe
+C:\Users\filip_000\Documents\Visual Studio 2013\Projects\Mario\Mario\bin\Windows\Debug\Mario.pdb
+C:\Users\filip_000\Documents\Visual Studio 2013\Projects\Mario\Mario\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\filip_000\Documents\Visual Studio 2013\Projects\Mario\Mario\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\filip_000\Documents\Visual Studio 2013\Projects\Mario\Mario\bin\Windows\Debug\SharpDX.dll
+C:\Users\filip_000\Documents\Visual Studio 2013\Projects\Mario\Mario\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\filip_000\Documents\Visual Studio 2013\Projects\Mario\Mario\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\filip_000\Documents\Visual Studio 2013\Projects\Mario\Mario\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\filip_000\Documents\Visual Studio 2013\Projects\Mario\Mario\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\filip_000\Documents\Visual Studio 2013\Projects\Mario\Mario\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\filip_000\Documents\Visual Studio 2013\Projects\Mario\Mario\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\filip_000\Documents\Visual Studio 2013\Projects\Mario\Mario\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\filip_000\Documents\Visual Studio 2013\Projects\Mario\Mario\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\filip_000\Documents\Visual Studio 2013\Projects\Mario\Mario\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\filip_000\Documents\Visual Studio 2013\Projects\Mario\Mario\bin\Windows\Debug\SharpDX.xml
+C:\Users\filip_000\Documents\Visual Studio 2013\Projects\Mario\Mario\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\filip_000\Documents\Visual Studio 2013\Projects\Mario\Mario\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\filip_000\Documents\Visual Studio 2013\Projects\Mario\Mario\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\filip_000\Documents\Visual Studio 2013\Projects\Mario\Mario\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\filip_000\Documents\Visual Studio 2013\Projects\Mario\Mario\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\filip_000\Documents\Visual Studio 2013\Projects\Mario\Mario\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\filip_000\Documents\Visual Studio 2013\Projects\Mario\Mario\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\filip_000\Documents\Visual Studio 2013\Projects\Mario\Mario\obj\x86\Debug\Mario.csprojResolveAssemblyReference.cache

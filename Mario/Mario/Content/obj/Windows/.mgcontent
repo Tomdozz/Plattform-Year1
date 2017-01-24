@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/filip_000/Documents/Visual Studio 2013/Projects/Mario/Mario/Content/Sheet_Platt.png</File>
+    <File>C:/Users/filip_000/Documents/Visual Studio 2013/Projects/Mario/Mario/Content/wall.png</File>
+    <File>C:/Users/filip_000/Documents/Visual Studio 2013/Projects/Mario/Mario/Content/mariosheet1.png</File>
+    <File>C:/Users/filip_000/Documents/Visual Studio 2013/Projects/Mario/Mario/Content/mariosheet2.png</File>
+    <File>C:/Users/filip_000/Documents/Visual Studio 2013/Projects/Mario/Mario/Content/background.png</File>
+    <File>C:/Users/filip_000/Documents/Visual Studio 2013/Projects/Mario/Mario/Content/cloud.png</File>
+  </SourceFiles>
+</SourceFileCollection>

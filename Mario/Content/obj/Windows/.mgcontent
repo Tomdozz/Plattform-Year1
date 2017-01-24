@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Tom/Desktop/Mario/Mario/Content/Sheet_Platt.png</File>
+    <File>C:/Users/Tom/Desktop/Mario/Mario/Content/wall.png</File>
+    <File>C:/Users/Tom/Desktop/Mario/Mario/Content/mariosheet1.png</File>
+    <File>C:/Users/Tom/Desktop/Mario/Mario/Content/mariosheet2.png</File>
+    <File>C:/Users/Tom/Desktop/Mario/Mario/Content/background.png</File>
+    <File>C:/Users/Tom/Desktop/Mario/Mario/Content/cloud.png</File>
+    <File>C:/Users/Tom/Desktop/Mario/Mario/Content/goal3.png</File>
+    <File>C:/Users/Tom/Desktop/Mario/Mario/Content/scorefont.spritefont</File>
+    <File>C:/Users/Tom/Desktop/Mario/Mario/Content/life.png</File>
+    <File>C:/Users/Tom/Desktop/Mario/Mario/Content/lifefont.spritefont</File>
+    <File>C:/Users/Tom/Desktop/Mario/Mario/Content/life2.png</File>
+    <File>C:/Users/Tom/Desktop/Mario/Mario/Content/Coin.png</File>
+  </SourceFiles>
+</SourceFileCollection>
